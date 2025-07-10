@@ -56,7 +56,7 @@ Using a global bike-sales dataset, I created an **interactive Pivot Table, slice
 ---
 
 ## 🎓 Part of My Bootcamp Journey  
-- Week 1 – Advanced Excel module (Pivot Tables, slicers, macros).  
+ Week 1 – Advanced Excel module (Pivot Tables, slicers, macros).  
 ---
 
 ## 🤔 If I Had More Time  
