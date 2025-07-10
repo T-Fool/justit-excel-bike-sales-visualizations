@@ -47,11 +47,10 @@ Using a global bike-sales dataset, I created an **interactive Pivot Table, slice
 ---
 
 ## 📁 Project Files  
-| File | Purpose |
-|------|---------|
-| `bike_sales_pivot_lab.xlsx` | Cleaned data, Pivot Table & chart |
-| `screenshots/` | PNG images referenced above |
-| `README.md` | This guide |
+
+- `bike_sales_pivot_lab.xlsx`  Cleaned data, Pivot Table & chart 
+- `screenshots/`    PNG images referenced above 
+- `README.md`    This guide 
 
 ---
 
